@@ -13,7 +13,7 @@ const listadeContactos =[
     apellido: "Lugo",
     telefono: 3124567890,
     ciudad: "Cartagena",
-    direccion: "Trv 2 h # 52-45"
+    direccion: "Trv 2 h # 52-40"
     },
     {
     id: 3,
